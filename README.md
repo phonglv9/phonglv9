@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
-<h3 align="center">.NET Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently working as a **.NET Developer**
+- 🔭 I'm currently working as a **Backend Developer**
 - 📫 Contact: **mrwind2299@gmail.com**
 
 ---
